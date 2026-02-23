@@ -25,6 +25,9 @@ Before using any other command, you need to **join the colony first**.
 | `!stats` | Show your **EXP** and current **Skill Level** (points currency). |
 | `!skills` | List your colonist's RimWorld skills and their current levels. |
 | `!mood` | Check your colonist's current mood percentage and label (e.g. *Content*, *Stressed*, *About to break*). |
+| `!health` | Check your colonist's current health — lists any injuries, illnesses, or hediffs affecting them. |
+| `!hunger` | Check your colonist's current hunger / food level. |
+| `!rest` | Check your colonist's current rest / tiredness level. |
 
 ---
 
@@ -52,6 +55,14 @@ Control what jobs your colonist prioritizes in the colony.
 | `!work` | List all available work types for your colonist and their current priorities. |
 | `!work assign [work]` | Set the named work type to **priority 1** (highest) and everything else to **3**. Example: `!work assign mining` |
 | `!work [work] [1-5]` | Fine-tune a single work priority. **1** = highest, **4** = lowest, **5** = disabled. Example: `!work cooking 2` |
+
+---
+
+## Movement
+
+| Command | Description |
+|---------|-------------|
+| `!run` | Make your colonist sprint to a random location on the map. |
 
 ---
 
