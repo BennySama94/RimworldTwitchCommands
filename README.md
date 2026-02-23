@@ -83,6 +83,18 @@ Control what jobs your colonist prioritizes in the colony.
 
 ---
 
+## Viewer History
+
+Track your colonist's lifetime stats across all runs.
+
+| Command | Description |
+|---------|-------------|
+| `!playtime` | Show the total in-game time your colonist has been alive across all runs. |
+| `!deathcount` | Show how many times your colonist has died. |
+| `!joindate` | Show which in-game day you first joined the colony. |
+
+---
+
 ## Notes
 
 - All commands reply directly to you via Twitch chat.
