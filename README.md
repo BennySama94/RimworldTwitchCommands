@@ -28,6 +28,7 @@ Before using any other command, you need to **join the colony first**.
 | `!health` | Check your colonist's current health — lists any injuries, illnesses, or hediffs affecting them. |
 | `!hunger` | Check your colonist's current hunger / food level. |
 | `!rest` | Check your colonist's current rest / tiredness level. |
+| `!job` | Check what your colonist is currently doing. |
 
 ---
 
@@ -62,7 +63,7 @@ Control what jobs your colonist prioritizes in the colony.
 
 | Command | Description |
 |---------|-------------|
-| `!run` | Make your colonist sprint to a random location on the map. |
+| `!run` | Make your colonist sprint to a random location on the map. Buff lasts **2 real minutes**. Has a **7 in-game day** cooldown. |
 
 ---
 
@@ -71,6 +72,14 @@ Control what jobs your colonist prioritizes in the colony.
 | Command | Description |
 |---------|-------------|
 | `!selftend` | Enable **self-tending** for your colonist for **7 in-game days**. Costs **1 Skill Level point**. Cannot be re-activated while already running. |
+
+---
+
+## Cooldowns
+
+| Command | Description |
+|---------|-------------|
+| `!cooldowns` | Check the cooldown status of `!run` and `!selftend` — shows time remaining or whether they're ready. |
 
 ---
 
